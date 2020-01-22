@@ -5,7 +5,8 @@ Having a Senior Developer C# Interview? Don't panic, we got you covered! Check t
 > You could also find all the answers here 👉 https://www.fullstack.cafe/C%23.
 
 
-### Q1: What is C#? ⭐
+
+## Q1: What is C#? ⭐
 
 **Answer:**
 
@@ -18,7 +19,7 @@ C# is the programming language for writing Microsoft .NET applications. C# provi
 🔗 **Source:** [c-sharpcorner.com](https://www.c-sharpcorner.com/UploadFile/8ef97c/C-Sharp-net-interview-questions-and-answers/)
 
 
-### Q2: What is an Object? ⭐
+## Q2: What is an Object? ⭐
 
 **Answer:**
 
@@ -29,7 +30,7 @@ Objects helps us to access the member of a class or struct either they can be fi
 🔗 **Source:** [c-sharpcorner.com](https://www.c-sharpcorner.com/UploadFile/8ef97c/C-Sharp-net-interview-questions-and-answers/)
 
 
-### Q3: What is the difference between "continue" and "break" statements in C#? ⭐
+## Q3: What is the difference between "continue" and "break" statements in C#? ⭐
 
 **Answer:**
 
@@ -39,7 +40,7 @@ Objects helps us to access the member of a class or struct either they can be fi
 🔗 **Source:** [c-sharpcorner.com](https://www.c-sharpcorner.com/UploadFile/8ef97c/C-Sharp-net-interview-questions-and-answers/)
 
 
-### Q4: What are property Accessors? ⭐
+## Q4: What are property Accessors? ⭐
 
 **Answer:**
 
@@ -48,7 +49,7 @@ The _get_ and _set_ portions or blocks of a property are called accessors. These
 🔗 **Source:** [c-sharpcorner.com](https://www.c-sharpcorner.com/UploadFile/8ef97c/C-Sharp-net-interview-questions-and-answers/)
 
 
-### Q5: What is Managed or Unmanaged Code? ⭐⭐
+## Q5: What is Managed or Unmanaged Code? ⭐⭐
 
 **Answer:**
 
@@ -59,7 +60,7 @@ The _get_ and _set_ portions or blocks of a property are called accessors. These
 🔗 **Source:** [c-sharpcorner.com](https://www.c-sharpcorner.com/UploadFile/8ef97c/C-Sharp-net-interview-questions-and-answers/)
 
 
-### Q6: What is Boxing and Unboxing? ⭐⭐
+## Q6: What is Boxing and Unboxing? ⭐⭐
 
 **Answer:**
 
@@ -74,7 +75,7 @@ The concept of boxing and unboxing underlines the C# unified view of the type sy
 🔗 **Source:** [c-sharpcorner.com](https://www.c-sharpcorner.com/UploadFile/8ef97c/C-Sharp-net-interview-questions-and-answers/)
 
 
-### Q7: What is the difference between a struct and a class in C#? ⭐⭐
+## Q7: What is the difference between a struct and a class in C#? ⭐⭐
 
 **Answer:**
 
@@ -101,7 +102,7 @@ Struct**
 🔗 **Source:** [c-sharpcorner.com](https://www.c-sharpcorner.com/UploadFile/8ef97c/C-Sharp-net-interview-questions-and-answers/)
 
 
-### Q8: What is enum in C#? ⭐⭐
+## Q8: What is enum in C#? ⭐⭐
 
 **Answer:**
 
@@ -120,7 +121,7 @@ An **enum** is a value type with a set of related named constants often referred
 🔗 **Source:** [c-sharpcorner.com](https://www.c-sharpcorner.com/UploadFile/8ef97c/C-Sharp-net-interview-questions-and-answers/)
 
 
-### Q9: Can "this" be used within a static method? ⭐⭐
+## Q9: Can "this" be used within a static method? ⭐⭐
 
 **Answer:**
 
@@ -129,7 +130,7 @@ We can't use _this_ in static method because keyword _this_ returns a reference 
 🔗 **Source:** [c-sharpcorner.com](https://www.c-sharpcorner.com/UploadFile/8ef97c/C-Sharp-net-interview-questions-and-answers/)
 
 
-### Q10: Define Property in C#? ⭐⭐
+## Q10: Define Property in C#? ⭐⭐
 
 **Answer:**
 
@@ -138,7 +139,7 @@ We can't use _this_ in static method because keyword _this_ returns a reference 
 🔗 **Source:** [c-sharpcorner.com](https://www.c-sharpcorner.com/UploadFile/8ef97c/C-Sharp-net-interview-questions-and-answers/)
 
 
-### Q11: What is the difference between string and StringBuilder in c#? ⭐⭐
+## Q11: What is the difference between string and StringBuilder in c#? ⭐⭐
 
 **Answer:**
 
@@ -155,7 +156,7 @@ We can't use _this_ in static method because keyword _this_ returns a reference 
 🔗 **Source:** [c-sharpcorner.com](https://www.c-sharpcorner.com/UploadFile/8ef97c/C-Sharp-net-interview-questions-and-answers/)
 
 
-### Q12: What are partial classes? ⭐⭐
+## Q12: What are partial classes? ⭐⭐
 
 **Answer:**
 
@@ -164,7 +165,7 @@ A **partial** class is only use to splits the definition of a class in two or mo
 🔗 **Source:** [c-sharpcorner.com](https://www.c-sharpcorner.com/UploadFile/8ef97c/C-Sharp-net-interview-questions-and-answers/)
 
 
-### Q13: What are generics in C#? ⭐⭐
+## Q13: What are generics in C#? ⭐⭐
 
 **Answer:**
 
@@ -173,7 +174,7 @@ A **partial** class is only use to splits the definition of a class in two or mo
 🔗 **Source:** [c-sharpcorner.com](https://www.c-sharpcorner.com/UploadFile/8ef97c/C-Sharp-net-interview-questions-and-answers/)
 
 
-### Q14: What you understand by Value types and Reference types in C#.Net? ⭐⭐
+## Q14: What you understand by Value types and Reference types in C#.Net? ⭐⭐
 
 **Answer:**
 
@@ -182,7 +183,7 @@ In C# data types can be of two types: **Value Types** and **Reference Types**. V
 🔗 **Source:** [stackoverflow.com](https://stackoverflow.com/questions/412813/when-to-use-arraylist-over-array-in-c)
 
 
-### Q15: What is Serialization? ⭐⭐
+## Q15: What is Serialization? ⭐⭐
 
 **Answer:**
 
@@ -195,7 +196,7 @@ In C# data types can be of two types: **Value Types** and **Reference Types**. V
 🔗 **Source:** [c-sharpcorner.com](https://www.c-sharpcorner.com/UploadFile/8ef97c/C-Sharp-net-interview-questions-and-answers/)
 
 
-### Q16: What is LINQ in C#? ⭐⭐
+## Q16: What is LINQ in C#? ⭐⭐
 
 **Answer:**
 
@@ -204,7 +205,7 @@ In C# data types can be of two types: **Value Types** and **Reference Types**. V
 🔗 **Source:** [c-sharpcorner.com](https://www.c-sharpcorner.com/UploadFile/8ef97c/C-Sharp-net-interview-questions-and-answers/)
 
 
-### Q17: Can multiple catch blocks be executed? ⭐⭐
+## Q17: Can multiple catch blocks be executed? ⭐⭐
 
 **Answer:**
 
@@ -213,7 +214,7 @@ No, Multiple catch blocks can't be executed. Once the proper catch code executed
 🔗 **Source:** [guru99.com](https://www.guru99.com/c-sharp-interview-questions.html)
 
 
-### Q18: What are Custom Exceptions? ⭐⭐
+## Q18: What are Custom Exceptions? ⭐⭐
 
 **Answer:**
 
@@ -222,7 +223,7 @@ Sometimes there are some errors that need to be handeled as per user requirement
 🔗 **Source:** [guru99.com](https://www.guru99.com/c-sharp-interview-questions.html)
 
 
-### Q19: Why can't you specify the accessibility modifier for methods inside the interface? ⭐⭐
+## Q19: Why can't you specify the accessibility modifier for methods inside the interface? ⭐⭐
 
 **Answer:**
 
@@ -231,7 +232,7 @@ In an interface, we have virtual methods that do not have method definition. All
 🔗 **Source:** [guru99.com](https://www.guru99.com/c-sharp-interview-questions.html)
 
 
-### Q20: What are the different types of classes in C#? ⭐⭐
+## Q20: What are the different types of classes in C#? ⭐⭐
 
 **Answer:**
 
@@ -245,7 +246,7 @@ The different types of class in C# are:
 🔗 **Source:** [softwaretestinghelp.com](https://www.softwaretestinghelp.com/c-sharp-interview-questions/)
 
 
-### Q21: How is Exception Handling implemented in C#? ⭐⭐
+## Q21: How is Exception Handling implemented in C#? ⭐⭐
 
 **Answer:**
 
@@ -259,7 +260,7 @@ Exception handling is done using four keywords in C#:
 🔗 **Source:** [softwaretestinghelp.com](https://www.softwaretestinghelp.com/c-sharp-interview-questions/)
 
 
-### Q22: What is an Abstract Class? ⭐⭐
+## Q22: What is an Abstract Class? ⭐⭐
 
 **Answer:**
 
@@ -270,7 +271,7 @@ Any method in the abstract class does not have implementations in the same class
 🔗 **Source:** [softwaretestinghelp.com](https://www.softwaretestinghelp.com/c-sharp-interview-questions/)
 
 
-### Q23: Can you return multiple values from a function in C#? ⭐⭐
+## Q23: Can you return multiple values from a function in C#? ⭐⭐
 
 **Answer:**
 
@@ -279,7 +280,7 @@ Yes! Using output parameters. A return statement can be used for returning only 
 🔗 **Source:** [tutorialspoint.com](https://www.tutorialspoint.com/csharp/csharp_interview_questions.htm)
 
 
-### Q24: In how many ways you can pass parameters to a method? ⭐⭐
+## Q24: In how many ways you can pass parameters to a method? ⭐⭐
 
 **Answer:**
 
@@ -292,7 +293,7 @@ There are three ways that parameters can be passed to a method:
 🔗 **Source:** [tutorialspoint.com](https://www.tutorialspoint.com/csharp/csharp_interview_questions.htm)
 
 
-### Q25: What is namespace in C#? ⭐⭐
+## Q25: What is namespace in C#? ⭐⭐
 
 **Answer:**
 
@@ -301,7 +302,7 @@ A **namespace** is designed for providing a way to keep one set of names separat
 🔗 **Source:** [tutorialspoint.com](https://www.tutorialspoint.com/csharp/csharp_interview_questions.htm)
 
 
-### Q26: What are reference types in C#? ⭐⭐
+## Q26: What are reference types in C#? ⭐⭐
 
 **Answer:**
 
@@ -312,7 +313,7 @@ In other words, they refer to a memory location. Using multiple variables, the r
 🔗 **Source:** [tutorialspoint.com](https://www.tutorialspoint.com/csharp/csharp_interview_questions.htm)
 
 
-### Q27: What are dynamic type variables in C#? ⭐⭐
+## Q27: What are dynamic type variables in C#? ⭐⭐
 
 **Answer:**
 
@@ -321,7 +322,7 @@ You can store any type of value in the dynamic data type variable. Type checking
 🔗 **Source:** [tutorialspoint.com](https://www.tutorialspoint.com/csharp/csharp_interview_questions.htm)
 
 
-### Q28: What are nullable types in C#? ⭐⭐
+## Q28: What are nullable types in C#? ⭐⭐
 
 **Answer:**
 
@@ -332,7 +333,7 @@ For example, you can store any value from -2,147,483,648 to 2,147,483,647 or nul
 🔗 **Source:** [tutorialspoint.com](https://www.tutorialspoint.com/csharp/csharp_interview_questions.htm)
 
 
-### Q29: Why to use “finally” block in C#? ⭐⭐
+## Q29: Why to use “finally” block in C#? ⭐⭐
 
 **Answer:**
 
@@ -341,7 +342,7 @@ For example, you can store any value from -2,147,483,648 to 2,147,483,647 or nul
 🔗 **Source:** [a4academics.com](http://a4academics.com/interview-questions/52-dot-net-interview-questions/417-c-oops-interview-questions-and-answers?showall=&start=1)
 
 
-### Q30: Filter out the first 3 even numbers from the list using LINQ ⭐⭐
+## Q30: Filter out the first 3 even numbers from the list using LINQ ⭐⭐
 
 **Answer:**
 
@@ -354,117 +355,117 @@ var evenNumbers = List
 🔗 **Source:** [medium.com/](https://medium.com/sears-israel/my-number-one-c-interview-question-39cdaac16c)
 
 
-### Q31: What is the difference between Interface and Abstract Class? ⭐⭐⭐
+## Q31: What is the difference between Interface and Abstract Class? ⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q32: What is the difference between constant and readonly in c#? ⭐⭐⭐
+## Q32: What is the difference between constant and readonly in c#? ⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q33: What is the difference between ref and out keywords? ⭐⭐⭐
+## Q33: What is the difference between ref and out keywords? ⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q34:  What is extension method in C# and how to use them? ⭐⭐⭐
+## Q34:  What is extension method in C# and how to use them? ⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q35: What is delegates in C# and uses of delegates? ⭐⭐⭐
+## Q35: What is delegates in C# and uses of delegates? ⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q36: What is sealed class in C#? ⭐⭐⭐
+## Q36: What is sealed class in C#? ⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q37: What is the difference between overloading and overriding? ⭐⭐⭐
+## Q37: What is the difference between overloading and overriding? ⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q38: What is difference between Throw Exception and Throw Clause? ⭐⭐⭐
+## Q38: What is difference between Throw Exception and Throw Clause? ⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q39: What is the difference between Equality Operator (==) and Equals() Method in C#? ⭐⭐⭐
+## Q39: What is the difference between Equality Operator (==) and Equals() Method in C#? ⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q40: What is Virtual Method in C#? ⭐⭐⭐
+## Q40: What is Virtual Method in C#? ⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q41: What are the uses of “using” in C# ⭐⭐⭐
+## Q41: What are the uses of “using” in C# ⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q42: Explain Anonymous type in C# ⭐⭐⭐
+## Q42: Explain Anonymous type in C# ⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q43: What is Reflection in C#.Net? ⭐⭐⭐
+## Q43: What is Reflection in C#.Net? ⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q44: What is difference between constants and readonly? ⭐⭐⭐
+## Q44: What is difference between constants and readonly? ⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q45: Explain Code compilation in C# ⭐⭐⭐
+## Q45: Explain Code compilation in C# ⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q46: What is the difference between Virtual method and Abstract method? ⭐⭐⭐
+## Q46: What is the difference between Virtual method and Abstract method? ⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q47: What is a Destructor in C#? ⭐⭐⭐
+## Q47: What is a Destructor in C#? ⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q48: What is the difference between dynamic type variables and object type variables? ⭐⭐⭐
+## Q48: What is the difference between dynamic type variables and object type variables? ⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q49: How encapsulation is implemented in C#? ⭐⭐⭐
+## Q49: How encapsulation is implemented in C#? ⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q50: What is scope of a Internal member variable of a C# class? ⭐⭐⭐
+## Q50: What is scope of a Internal member variable of a C# class? ⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q51: What is the use of Null Coalescing Operator (??) in C#? ⭐⭐⭐
+## Q51: What is the use of Null Coalescing Operator (??) in C#? ⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q52: Given an array of ints, write a C# method to total all the values that are even numbers. ⭐⭐⭐
+## Q52: Given an array of ints, write a C# method to total all the values that are even numbers. ⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q53: What is the output of the program below? Explain your answer. ⭐⭐⭐
+## Q53: What is the output of the program below? Explain your answer. ⭐⭐⭐
 
 **Questions Details:**
 
@@ -492,7 +493,7 @@ static void Main()
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q54: Refactor the code ⭐⭐⭐
+## Q54: Refactor the code ⭐⭐⭐
 
 **Questions Details:**
 
@@ -521,57 +522,57 @@ Is there a way to modify `ClassA` so that you can you call the constructor with 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q55: What is lambda expressions in C#? ⭐⭐⭐
+## Q55: What is lambda expressions in C#? ⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q56: What is an anonymous function in C#? ⭐⭐⭐
+## Q56: What is an anonymous function in C#? ⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q57: What is marshalling and why do we need it? ⭐⭐⭐⭐
+## Q57: What is marshalling and why do we need it? ⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q58: What is the difference between dispose and finalize methods in c#? ⭐⭐⭐⭐
+## Q58: What is the difference between dispose and finalize methods in c#? ⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q59: What is difference between late binding and early binding in C#? ⭐⭐⭐⭐
+## Q59: What is difference between late binding and early binding in C#? ⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q60: What is the Constructor Chaining in C#? ⭐⭐⭐⭐
+## Q60: What is the Constructor Chaining in C#? ⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q61: What is Indexer in C#? ⭐⭐⭐⭐
+## Q61: What is Indexer in C#? ⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q62: Name difference between "is" and "as" operator in C# ⭐⭐⭐⭐
+## Q62: Name difference between "is" and "as" operator in C# ⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q63: What is an Object Pool in .Net? ⭐⭐⭐⭐
+## Q63: What is an Object Pool in .Net? ⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q64: When to use ArrayList over array[] in c#? ⭐⭐⭐⭐
+## Q64: When to use ArrayList over array[] in c#? ⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q65: What are the differences between a multidimensional array and an array of arrays in C#? ⭐⭐⭐⭐
+## Q65: What are the differences between a multidimensional array and an array of arrays in C#? ⭐⭐⭐⭐
 
 **Questions Details:**
 
@@ -581,77 +582,77 @@ What are the differences between multidimensional arrays `double[,]` and array-o
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q66: Describe the accessibility modifier "protected internal". ⭐⭐⭐⭐
+## Q66: Describe the accessibility modifier "protected internal". ⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q67: What are the different ways a method can be overloaded? ⭐⭐⭐⭐
+## Q67: What are the different ways a method can be overloaded? ⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q68: What are pointer types in C#? ⭐⭐⭐⭐
+## Q68: What are pointer types in C#? ⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q69: What is scope of a Protected Internal member variable of a C# class? ⭐⭐⭐⭐
+## Q69: What is scope of a Protected Internal member variable of a C# class? ⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q70: Can you create a function in C# which can accept varying number of arguments? ⭐⭐⭐⭐
+## Q70: Can you create a function in C# which can accept varying number of arguments? ⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q71: Is operator overloading supported in C#? ⭐⭐⭐⭐
+## Q71: Is operator overloading supported in C#? ⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q72: What is the use of conditional preprocessor directive in C#? ⭐⭐⭐⭐
+## Q72: What is the use of conditional preprocessor directive in C#? ⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q73: What is the difference between System.ApplicationException class and System.SystemException class? ⭐⭐⭐⭐
+## Q73: What is the difference between System.ApplicationException class and System.SystemException class? ⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q74: Can we have only “try” block without “catch” block in C#? ⭐⭐⭐⭐
+## Q74: Can we have only “try” block without “catch” block in C#? ⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q75: In try block if we add return statement whether finally block is executed in C#? ⭐⭐⭐⭐
+## Q75: In try block if we add return statement whether finally block is executed in C#? ⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q76: What's the difference between StackOverflowError and OutOfMemoryError? ⭐⭐⭐⭐
+## Q76: What's the difference between StackOverflowError and OutOfMemoryError? ⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q77: What are the uses of delegates in C#? ⭐⭐⭐⭐
+## Q77: What are the uses of delegates in C#? ⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q78: Why to use lock statement in C#? ⭐⭐⭐⭐
+## Q78: Why to use lock statement in C#? ⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q79: Can Multiple Inheritance implemented in C# ? ⭐⭐⭐⭐
+## Q79: Can Multiple Inheritance implemented in C# ? ⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q80: What is the output of the short program below? Explain your answer. ⭐⭐⭐⭐
+## Q80: What is the output of the short program below? Explain your answer. ⭐⭐⭐⭐
 
 **Questions Details:**
 
@@ -672,7 +673,7 @@ class Program {
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q81: Is the comparison of time and null in the if statement below valid or not? Why or why not? ⭐⭐⭐⭐
+## Q81: Is the comparison of time and null in the if statement below valid or not? Why or why not? ⭐⭐⭐⭐
 
 **Questions Details:**
 
@@ -690,7 +691,7 @@ if (time == null)
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q82: What is the output of the program below? Explain your answer. ⭐⭐⭐⭐
+## Q82: What is the output of the program below? Explain your answer. ⭐⭐⭐⭐
 
 **Questions Details:**
 
@@ -717,7 +718,7 @@ Also, would the answer change if we were to replace `await Task.Delay(5);` with 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q83: What is the output of the program below? ⭐⭐⭐⭐
+## Q83: What is the output of the program below? ⭐⭐⭐⭐
 
 **Questions Details:**
 
@@ -758,7 +759,7 @@ public void Main(string[] args) {
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q84: What is the "yield" keyword used for in C#? ⭐⭐⭐⭐
+## Q84: What is the "yield" keyword used for in C#? ⭐⭐⭐⭐
 
 **Questions Details:**
 
@@ -779,17 +780,17 @@ Could you explain what does the `yield` keyword do there?
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q85: What interface should your data structure implement to make the "Where" method work? ⭐⭐⭐⭐
+## Q85: What interface should your data structure implement to make the "Where" method work? ⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q86: IEnumerable vs List - What to Use? How do they work? ⭐⭐⭐⭐
+## Q86: IEnumerable vs List - What to Use? How do they work? ⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q87: What is the difference between Func<string,string> and delegate? ⭐⭐⭐⭐
+## Q87: What is the difference between Func<string,string> and delegate? ⭐⭐⭐⭐
 
 **Questions Details:**
 
@@ -804,7 +805,7 @@ Are they both delegates? What's the difference?
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q88: Explain the difference between Select and Where ⭐⭐⭐⭐
+## Q88: Explain the difference between Select and Where ⭐⭐⭐⭐
 
 **Questions Details:**
 
@@ -819,77 +820,77 @@ When should I use .Select vs .Where?
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q89: Explain what is short-circuit evaluation in C# ⭐⭐⭐⭐
+## Q89: Explain what is short-circuit evaluation in C# ⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q90: What is the best practice to have best performance using Lazy<T> objects?  ⭐⭐⭐⭐
+## Q90: What is the best practice to have best performance using Lazy<T> objects?  ⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q91: What are the differences between IEnumerable and IQueryable? ⭐⭐⭐⭐⭐
+## Q91: What are the differences between IEnumerable and IQueryable? ⭐⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q92: What is deep or shallow copy concept in C#? ⭐⭐⭐⭐⭐
+## Q92: What is deep or shallow copy concept in C#? ⭐⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q93: What's the difference between the System.Array.CopyTo() and System.Array.Clone()? ⭐⭐⭐⭐⭐
+## Q93: What's the difference between the System.Array.CopyTo() and System.Array.Clone()? ⭐⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q94: What is multicast delegate in C#? ⭐⭐⭐⭐⭐
+## Q94: What is multicast delegate in C#? ⭐⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q95: What is the method MemberwiseClone() doing? ⭐⭐⭐⭐⭐
+## Q95: What is the method MemberwiseClone() doing? ⭐⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q96: List some different ways for equality check in .Net ⭐⭐⭐⭐⭐
+## Q96: List some different ways for equality check in .Net ⭐⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q97: What are circular references? ⭐⭐⭐⭐⭐
+## Q97: What are circular references? ⭐⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q98: What is jagged array in C#.Net and when to prefer jagged arrays over multi-dimensional arrays? ⭐⭐⭐⭐⭐
+## Q98: What is jagged array in C#.Net and when to prefer jagged arrays over multi-dimensional arrays? ⭐⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q99: Could you explain the difference between destructor, dispose and finalize method? ⭐⭐⭐⭐⭐
+## Q99: Could you explain the difference between destructor, dispose and finalize method? ⭐⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q100: Can you create sealed abstract class in C#? ⭐⭐⭐⭐⭐
+## Q100: Can you create sealed abstract class in C#? ⭐⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q101: What is a preprocessor directives in C#? ⭐⭐⭐⭐⭐
+## Q101: What is a preprocessor directives in C#? ⭐⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q102: What is the use of static constructors? ⭐⭐⭐⭐⭐
+## Q102: What is the use of static constructors? ⭐⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q103: Calculate the circumference of the circle ⭐⭐⭐⭐⭐
+## Q103: Calculate the circumference of the circle ⭐⭐⭐⭐⭐
 
 **Questions Details:**
 
@@ -911,49 +912,50 @@ write code to calculate the circumference of the circle, without modifying the `
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q104: What are the benefits of a Deferred Execution in LINQ? ⭐⭐⭐⭐⭐
+## Q104: What are the benefits of a Deferred Execution in LINQ? ⭐⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q105: What is the difference between lambdas and delegates? ⭐⭐⭐⭐⭐
+## Q105: What is the difference between lambdas and delegates? ⭐⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q106: Could you explain the difference between Func vs. Action vs. Predicate? ⭐⭐⭐⭐⭐
+## Q106: Could you explain the difference between Func vs. Action vs. Predicate? ⭐⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q107: Explain the difference between IQueryable, ICollection, IList & IDictionary interfaces? ⭐⭐⭐⭐⭐
+## Q107: Explain the difference between IQueryable, ICollection, IList & IDictionary interfaces? ⭐⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q108:  in C#, when should we use abstract classes instead of interfaces with extension methods? ⭐⭐⭐⭐⭐
+## Q108:  in C#, when should we use abstract classes instead of interfaces with extension methods? ⭐⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q109: Can you add extension methods to an existing static class? ⭐⭐⭐⭐⭐
+## Q109: Can you add extension methods to an existing static class? ⭐⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q110: Implement the "Where" method in C# ⭐⭐⭐⭐⭐
+## Q110: Implement the "Where" method in C# ⭐⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q111: What is the “volatile” keyword used for? ⭐⭐⭐⭐⭐
+## Q111: What is the “volatile” keyword used for? ⭐⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
 
 
-### Q112: Explain what is weak reference in C#? ⭐⭐⭐⭐⭐
+## Q112: Explain what is weak reference in C#? ⭐⭐⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/C%23)**
+
 
 
 
