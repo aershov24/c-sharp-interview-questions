@@ -100,7 +100,7 @@ Struct**
 * Classes are usually used for large amounts of data.
 * Classes can be inherited to other class.
 * A class can be abstract type.
-* We can't use an object of a class with using new keyword.
+* We can't use an object of a class without using new keyword.
 * We can create a default constructor.
 
 🔗 **Source:** [c-sharpcorner.com](https://www.c-sharpcorner.com/UploadFile/8ef97c/C-Sharp-net-interview-questions-and-answers/)
